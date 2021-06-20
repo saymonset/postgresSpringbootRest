@@ -1,4 +1,4 @@
-package com.interfell.jpa.postgresql;
+package com.interfell;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

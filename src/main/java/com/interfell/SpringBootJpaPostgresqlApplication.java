@@ -1,4 +1,4 @@
-package com.interfell.jpa.postgresql;
+package com.interfell;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
