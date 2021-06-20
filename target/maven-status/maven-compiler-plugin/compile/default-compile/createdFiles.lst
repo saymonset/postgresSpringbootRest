@@ -1,0 +1,4 @@
+com\interfell\jpa\postgresql\repository\TutorialRepository.class
+com\interfell\jpa\postgresql\SpringBootJpaPostgresqlApplication.class
+com\interfell\jpa\postgresql\controller\TutorialController.class
+com\interfell\jpa\postgresql\model\Tutorial.class
